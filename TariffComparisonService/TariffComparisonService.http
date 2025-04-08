@@ -1,0 +1,6 @@
+@TariffComparisonService_HostAddress = http://localhost:5153
+
+GET {{TariffComparisonService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
