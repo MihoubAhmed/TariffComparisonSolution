@@ -1,4 +1,5 @@
 ﻿using TariffComparisonService.Models;
+using TariffComparisonService.Services.Interfaces;
 
 namespace TariffComparisonService.Services
 {

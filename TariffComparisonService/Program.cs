@@ -1,4 +1,6 @@
 using TariffComparisonService.Services;
+using TariffComparisonService.Services.Interfaces;
+using TariffComparisonService.Services.Strategies;
 
 var builder = WebApplication.CreateBuilder(args);
 

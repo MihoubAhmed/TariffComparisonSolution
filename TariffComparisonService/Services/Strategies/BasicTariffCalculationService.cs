@@ -1,6 +1,7 @@
 ﻿using TariffComparisonService.Models;
+using TariffComparisonService.Services.Interfaces;
 
-namespace TariffComparisonService.Services
+namespace TariffComparisonService.Services.Strategies
 {
     public class BasicTariffCalculationService : ITariffCalculationStrategy
     {

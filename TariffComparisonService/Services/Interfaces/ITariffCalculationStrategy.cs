@@ -1,5 +1,5 @@
 ﻿using TariffComparisonService.Models;
-namespace TariffComparisonService.Services
+namespace TariffComparisonService.Services.Interfaces
 {
     public interface ITariffCalculationStrategy
     {
